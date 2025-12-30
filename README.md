@@ -1,6 +1,6 @@
 A likelihood-based deep conditional density learning method with an application to ITR. 
 
-Please see the article "Deep Conditional Distribution Learning: Non-asymptotic Theory, Inference, and an Application to Optimal Individualized Treatment Rules。" 
+Please see the article "Deep Conditional Distribution Learning: Non-asymptotic Theory, Inference, and an Application to Optimal Individualized Treatment Rules." 
 My work was accomplished at the Hong Kong Polytechnic University. I will never forget this wonderful experience at HK PolyU and am deeply grateful for it.
 Happy New Year, may the lights of Victoria Harbour continue to shine brightly.
 
